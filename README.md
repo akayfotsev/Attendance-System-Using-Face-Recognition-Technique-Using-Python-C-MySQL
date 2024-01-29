@@ -1,1 +1,1 @@
-# Attendance-System-Using-Face-Recognition-Technique-Using-Python-C-MySQL
+This project is an artificial intelligence-based attendance management system with face recognition technology. The main objective of this AI based software solution is to update attendance with employees' face using computer vision.
